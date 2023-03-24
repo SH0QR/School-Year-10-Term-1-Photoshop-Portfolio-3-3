@@ -95,7 +95,7 @@ nav a:hover {
 
 .middle-front {
     background-color: black;
-    background-image: url("images and stuff/cool\ green\ lamborghini\ urus\ with\ photo\ effects.png");
+    background-image: url("cool\ green\ lamborghini\ urus\ with\ photo\ effects.png");
     background-size: calc(16.7rem * 3);
     background-repeat: no-repeat;
     height: 9.6rem;
@@ -116,7 +116,7 @@ nav a:hover {
 
 .top-left {
     background-color: #2b2b2b;
-    background-image: url('images and stuff/Blade\ in\ the\ abyss.png');
+    background-image: url('Blade\ in\ the\ abyss.png');
     background-size: calc(17rem * 1.5);
     background-repeat: no-repeat;
     height: 17rem;
@@ -148,7 +148,7 @@ nav a:hover {
 
 .top-right {
     background-color: #2b2b2b;
-    background-image: url('images and stuff/face\ is\ a\ superhero.png');
+    background-image: url('face\ is\ a\ superhero.png');
     background-size: calc(17rem * 2);
     background-repeat: no-repeat;
     height: 17rem;
@@ -181,7 +181,7 @@ nav a:hover {
 
 .bottom-right {
     background-color: #2b2b2b;
-    background-image: url('images and stuff/Hot\ Tamales\ advertisement.png');
+    background-image: url('Hot\ Tamales\ advertisement.png');
     background-size: calc(17rem * 2.5);
     height: 17rem;
     width: 17rem;
@@ -212,7 +212,7 @@ nav a:hover {
 }
 .bottom-left {
     background-color: #2b2b2b;
-    background-image: url('images and stuff/School\ Steppin\ stone\ play\ poster.png'), url('images and stuff/School\ Stepping\ stone\ play\ poster.png');
+    background-image: url('School\ Steppin\ stone\ play\ poster.png'), url('images and stuff/School\ Stepping\ stone\ play\ poster.png');
     background-size: calc(100% * 1.5);
     height: 17rem;
     width: 17rem;
